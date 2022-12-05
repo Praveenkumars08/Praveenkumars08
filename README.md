@@ -13,7 +13,6 @@ Skills: JAVA, Selenium WebDriver, TestNG, Maven, Git, Jenkins, Docker
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenkumars08&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=praveenkumars08)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=praveenkumars08)  
 
